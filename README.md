@@ -5,7 +5,7 @@ Wind Scrren wipers are present in automobiles to wipe off water, dust and dirt o
 
 We built a simplified model of the Wiper using 4R Grashof Mechanism.
 
-!Wiper Model(https://github.com/vinaysrivastava273/Wind-Screen-Wiper/blob/main/image.jpg?raw=true)
+![Wiper Model](image.png)
 
 Features :
   1. Wiping Area can be changed by moving the Delta slider.
