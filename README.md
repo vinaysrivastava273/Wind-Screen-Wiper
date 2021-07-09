@@ -5,7 +5,7 @@ Wind Scrren wipers are present in automobiles to wipe off water, dust and dirt o
 
 We built a simplified model of the Wiper using 4R Grashof Mechanism.
 
-![Wiper Model](image.png)
+![Wiper Model](WiperImage.jpg)
 
 Features :
   1. Wiping Area can be changed by moving the Delta slider.
